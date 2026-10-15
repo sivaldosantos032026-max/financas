@@ -1,0 +1,2 @@
+streamlit>=1.57,<2
+firebase-admin>=6.5,<8
